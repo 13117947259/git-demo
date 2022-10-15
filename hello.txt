@@ -3,3 +3,4 @@ hello git,hello xjy. 3333333333333333333333333]]]]]]
 hello git,hello xjy.
 hello git,hello xjy.
 hello git,hello xjy. master test
+hello git,hello xjy. hot-fix test
